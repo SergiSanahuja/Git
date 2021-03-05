@@ -1,0 +1,10 @@
+/* per a la taula  */
+tr, td {
+    border: 1px solid black;
+}
+.primerafila {
+    color: red;
+}
+.segonafila {
+    color: yellow;
+}
